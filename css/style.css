@@ -1,0 +1,20 @@
+.main{
+  width: 320px;
+  margin: 0 auto;
+}
+.imag{
+  width: 250px;
+  height: 250px;
+}
+.slogan{
+  margin-left: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  color: red;
+  text-shadow: 2px;
+  box-shadow: rebeccapurple;
+}
+.slogantwo{
+  font-weight: 700;
+color: rgb(216, 141, 29);
+}
